@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Bloxxings. I study computer science in high school<br>
+Hi, I'm Bloxxings. I study computer science in high school.<br>
 
 
 # 💻 Tech Stack:
